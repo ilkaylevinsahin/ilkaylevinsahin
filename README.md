@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ilkay 👋
 
-<!--
-**ilkaylevinsahin/ilkaylevinsahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🇩🇪 Based in Karlsruhe, Germany
+- 🎓 Apprentice Software Developer (Fachinformatiker für Anwendungsentwicklung) starting September 2026
+- 🌱 Currently learning Python, SQL, HTML, CSS, JavaScript, Node.js and Git
+- 🚀 Goal: Become a Full-Stack Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I'm Learning
+
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Node.js
+- Express.js
+- Git & GitHub
+
+## 🎯 Current Goals
+
+- Finish my apprenticeship with excellent results
+- Build 100 programming projects
+- Master Full-Stack Development
+- Continuously improve every day
+
+## 📈 2026 Goals
+
+- Complete my Anki learning deck
+- Publish my projects on GitHub
+- Learn modern web development
