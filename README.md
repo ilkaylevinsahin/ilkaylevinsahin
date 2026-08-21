@@ -30,4 +30,3 @@
 
 - Complete my Anki learning deck
 - Publish my projects on GitHub
-- Learn modern web development
